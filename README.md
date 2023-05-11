@@ -54,16 +54,23 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: ARUN KUMAR SUKDEV CHAVAN
+RegisterNumber:  212222230013
 */
+### PROGRAM 1:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/mul.png)
+### PROGRAM 2:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/demul.png)
 
 
 
 
 
 
-### RTL LOGIC  
+### RTL LOGIC 1:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/mulrtl.png)
+### RTL LOGIC 1:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/demulrtl.png)
 
 
 
@@ -71,18 +78,26 @@ RegisterNumber:
 
 
 
-
-### TIMING DIGRAMS  
-
-
-
-
-
-### TRUTH TABLE 
+### TIMING DIGRAMS 1:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/multd.png)
+### TIMING DIGRAMS 2:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/demultd.png)
 
 
 
 
 
+### TRUTH TABLE 1:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/MultiplexerTT.png)
+### TRUTH TABLE 2:
+![output](https://github.com/srikarthickeyanganapathy/Exercise-07-Multiplexer-and-De--multiplexer/raw/main/DemultiplexerTT.png)
 
-### RESULTS 
+
+
+
+
+
+
+### RESULTS :
+Thus the Multiplexer and Demultiplexer circuits are designed and the truth table is verified using quartus software.
+
